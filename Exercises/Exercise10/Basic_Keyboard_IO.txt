@@ -1,0 +1,45 @@
+1st run output (2):
+-----------------------
+THE PROGRAM STARTS HERE!!
+mary.getAvenue():1
+How many intersections forward would you like the robot to go?
+2
+Scanner has a next int?: true
+You asked to move 2 spaces
+counter: 0
+0 < 2: true
+mary.getAvenue():2
+counter has been updated to:1
+counter: 1
+1 < 2: true
+mary.getAvenue():3
+counter has been updated to:2
+2 < 2: false
+counter is finally:2
+THE PROGRAM ENDS HERE!!
+======================================================
+
+2nd run output (-1):
+-------------------------
+THE PROGRAM STARTS HERE!!
+mary.getAvenue():1
+How many intersections forward would you like the robot to go?
+-1
+Scanner has a next int?: true
+You asked to move -1 spaces
+0 < -1: false
+counter is finally:0
+THE PROGRAM ENDS HERE!!
+========================================================
+
+3rd run output(My name):
+--------------------------------
+THE PROGRAM STARTS HERE!!
+mary.getAvenue():1
+How many intersections forward would you like the robot to go?
+Sangeet
+Scanner has a next int?: false
+You did NOT type in a whole number!
+counter is finally:0
+THE PROGRAM ENDS HERE!!
+==========================================================
